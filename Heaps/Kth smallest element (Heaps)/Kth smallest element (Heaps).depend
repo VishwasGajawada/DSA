@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603443732 source:c:\users\vishwas gajawada\desktop\c++ codes\kth smallest element (heaps)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
